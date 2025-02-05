@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Florin Mihai Ciuperciuc (Flo) <br/><a href="https://github.com/flomihciu">Aspiring DevOps Engineer</a>, <a href="www.linkedin.com/in/florin-ciuperciuc-38a383112">Building Automation Programmer</a>, Veteran
+<h2>👨‍💻 Bio: </h2>
 
-<!--
-**flomihciu/flomihciu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 GitHub Projects:</h2>
+- <b> Code Platoon DevOps Charlie Assessment 2 </b>
+  - [Code Platoon DevOps Charlie Assessment 2](https://github.com/flomihciu/assessment2.git)
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Certifications:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h2> 🤳 Connect with me:</h2>
+LinkedIn: https://www.linkedin.com/in/florin-ciuperciuc-38a383112
