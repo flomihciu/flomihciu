@@ -1,4 +1,4 @@
-<h1>Hi, I'm Florin Mihai Ciuperciuc (Flo) <br/><a href="https://github.com/flomihciu">Aspiring DevOps Engineer</a>, <a href="https://www.linkedin.com/in/florin-ciuperciuc-38a383112">Building Automation Programmer</a>, Veteran
+<h1>Hi, I'm Florin Mihai Ciuperciuc (Flo) <br/><a href="https://github.com/flomihciu">Aspiring DevOps Engineer</a>, <a href="https://www.linkedin.com/in/florin-ciuperciuc-dev2025">Building Automation Programmer</a>, Veteran
 <h2>👨‍💻 Bio: </h2>
 
 <h2>👨‍💻 GitHub Projects:</h2>
